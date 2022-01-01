@@ -1,2 +1,13 @@
+---
+description: Official Magicka Bag Whitepaper, last updated December 2021
+---
+
 # Magick Bag
-You find a magick bag.
+
+## Magick Bag Universe
+
+## Community & Economy
+
+## Mission
+
+## Vision
