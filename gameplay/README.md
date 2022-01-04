@@ -9,7 +9,7 @@ description: >-
 
 ## Version 1
 
-Allow user to connect wallet to open a magick bag nft and see the other nfts.
+Allow user to connect a wallet to open a magick bag nft and see the other nfts.
 
 ## Next Versions
 
