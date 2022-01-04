@@ -7,3 +7,18 @@ description: >-
 
 # Gameplay
 
+## Version 1
+
+Allow user to connect wallet to open a magick bag nft and see the other nfts.
+
+## Next Versions
+
+Maybe allow user to package a magick bag for redistribution
+
+Maybe allow user to view others magick bags and in turn, share theirs.
+
+Etc
+
+
+
+All other exploratory ideation is explored in the rest of the document
