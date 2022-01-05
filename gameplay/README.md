@@ -16,11 +16,11 @@ Items in Bag 1:
 Rings on cards.
 
 * Normal Card - 2D Copper Ring
-* Fine Card - 2D Silver Ring
-* Superior Card - 3D Ring
-* Epic Card - 3D Illuminated Ring
-* Legendary Card - 3D Animated Illuminated Ring
-* Legendary Foil - 3D Animated Illuminated with obj
+* Fine Card - 2D Copper Symmetric Ring
+* Superior Card - 2D Gold Ring
+* Epic Card - 2D Gold Symmetric Ring
+* Legendary Card - 3D Ring
+* Legendary Foil - 3D Illuminated (animated?)
 
 ## Next Versions
 
