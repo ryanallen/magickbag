@@ -18,7 +18,7 @@ Rings on cards.
 * Normal Card - 2D Copper Ring
 * Fine Card - 2D Gold Ring
 * Superior Card - 2D Copper Symmetric Ring (49 available)
-* Epic Card - 2D Gold Symmetric Ring (49 available
+* Epic Card - 2D Gold Symmetric Ring (49 available)
 * Legendary Card - 3D Ring
 * Legendary Foil - 3D Illuminated (animated?)
 
